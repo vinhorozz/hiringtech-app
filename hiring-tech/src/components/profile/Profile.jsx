@@ -10,9 +10,9 @@ export function Profile(props) {
         <div>{props.phone}</div>
         <div>{props.email}</div>
       <div>
-            <a href={props.gitHubUrl}>{FaGithub}</a>
-            <a href={props.linkedinUrl}>{FaLinkedin}</a>
-            <a href={props.instagramUrl}>{FaInstagram}</a>
+                 <a href={props.gitHubUrl}><FaGithub/></a>
+            <a href={props.linkedinUrl}><FaLinkedin/></a>
+            <a href={props.instagramUrl}><FaInstagram/></a>
         </div>
     </div>
   )
