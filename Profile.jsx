@@ -10,9 +10,9 @@ export function Profile(props) {
         <div>{props.phone}</div>
         <div>{props.email}</div>
       <div>
-            <a href={props.gitHubUrl} target="_blanck" rel= "noreferer"><FaGithub/> GitHub </a>
-            <a href={props.linkedinUrl} target="_blanck" rel= "noreferer"><FaLinkedin/> Linkedin</a>
-            <a href={props.instagramUrl} target="_blanck" rel= "noreferer"><FaInstagram/> Instagram</a>
+            <a href={props.gitHubUrl} target="_blank" rel= "noreferer"><FaGithub/> GitHub </a>
+            <a href={props.linkedinUrl} target="_blank" rel= "noreferer"><FaLinkedin/> Linkedin</a>
+            <a href={props.instagramUrl} target="_blank" rel= "noreferer"><FaInstagram/> Instagram</a>
         </div>
     </div>
   )
