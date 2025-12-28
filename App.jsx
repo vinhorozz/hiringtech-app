@@ -17,6 +17,42 @@ function App() {
         email="cami@gmail.com" 
         linkedinUrl="https://www.linkedin.com/" 
         gitHubUrl="https://github.com/" 
+        instagramUrl="https://www.instagram.com/"/>      
+        <Profile 
+        avatar="https://randomuser.me/api/portraits/women/44.jpg" 
+        name="cami" 
+        bio="developer" 
+        phone="5599999997" 
+        email="cami@gmail.com" 
+        linkedinUrl="https://www.linkedin.com/" 
+        gitHubUrl="https://github.com/" 
+        instagramUrl="https://www.instagram.com/"/>      
+        <Profile 
+        avatar="https://randomuser.me/api/portraits/women/44.jpg" 
+        name="cami" 
+        bio="developer" 
+        phone="5599999997" 
+        email="cami@gmail.com" 
+        linkedinUrl="https://www.linkedin.com/" 
+        gitHubUrl="https://github.com/" 
+        instagramUrl="https://www.instagram.com/"/>      
+        <Profile 
+        avatar="https://randomuser.me/api/portraits/women/44.jpg" 
+        name="cami" 
+        bio="developer" 
+        phone="5599999997" 
+        email="cami@gmail.com" 
+        linkedinUrl="https://www.linkedin.com/" 
+        gitHubUrl="https://github.com/" 
+        instagramUrl="https://www.instagram.com/"/>      
+        <Profile 
+        avatar="https://randomuser.me/api/portraits/women/44.jpg" 
+        name="cami" 
+        bio="developer" 
+        phone="5599999997" 
+        email="cami@gmail.com" 
+        linkedinUrl="https://www.linkedin.com/" 
+        gitHubUrl="https://github.com/" 
         instagramUrl="https://www.instagram.com/"/>             
         
       </div>
